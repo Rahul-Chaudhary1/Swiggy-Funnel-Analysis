@@ -4,3 +4,6 @@ The goal of this project is to analyze a Swiggy dataset and conduct an in-depth 
 The project outputs include various visualizations, such as graphs and charts, which provide insights into the trends and patterns in food delivery orders, customer behavior, and restaurant performance.
 # Conclusion
 This project provides valuable insights into the food delivery service provided by Swiggy. The Dashboard analysis can be used to improve the service provided by Swiggy to customers and restaurants, and to help in making data-driven decisions.
+
+## Author
+\Rahul Chaudhary /https://github.com/Rahul-Chaudhary1
